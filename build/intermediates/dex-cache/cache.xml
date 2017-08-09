@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c99840921c370c93f73a0d3960db359bc3912200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_028cc88d6c2cc1bbb636467bdf8122eaf731c45d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_902e63bfe47c1fea5f770f2653184e6f0ddf8a22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_a2a1313851cb5df2bf80574657a071c92c23406c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_67013b9e6e1ba9ffcecb313eac42f0331c7d3b4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_91aaade96e16588392b296d3b549c2c815c747c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ab59ad4fda0e313bb70183c9aaa120e77373d515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_f007a8def04199fd630f92ff6c609fa8d310bb9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_c78e65450a50d15cb49e5882c8f9aa3d7b6bc73d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/SlideUnlockCaptcha/captcha_lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="08e429a66d8bd9af1c4ad32bbfa04cce0f41a9fd">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/SlideUnlockCaptcha-captcha_lib-unspecified_681cc86310913dabb13b399f06ef36ff0b77f464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_06e17cee79e900994377974d2cb54de6160c1976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_164b3dac9cc3b0c47267b3aff84fb41cc479cbe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_6feba8b39ae970589b126b329829fab746e3b148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_9a78b59cb12cacd0496089121d72c72da7f5c1ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_691b469d9a4e414002fd1c581749a0282805e266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_631d5e2be3bc56465e079df86ee6f10709882e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zongkaili/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/zongkaili/Documents/labratory/SlideUnlockCaptcha/app/build/intermediates/pre-dexed/debug/glide-3.7.0_e785addca77fbaf4c923ea738c43866a4746c152.jar" />
+    </item>
+
+</items>
