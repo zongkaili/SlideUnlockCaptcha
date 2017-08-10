@@ -34,7 +34,7 @@ import static com.kelly.captcha.DrawHelperUtils.drawPartCircle;
  * 继承自ImageView方便北京图片的自定义拓展
  */
 public class SwipeCaptchaView extends AppCompatImageView {
-    private static final String TAG = "zxt/" + SwipeCaptchaView.class.getName();
+    private static final String TAG = SwipeCaptchaView.class.getSimpleName();
     //控件的宽高
     protected int mWidth;
     protected int mHeight;
@@ -203,8 +203,8 @@ public class SwipeCaptchaView extends AppCompatImageView {
             }
         });
         mSuccessPaint = new Paint();
-        mSuccessPaint.setShader(new LinearGradient(0, 0, width/2*3, mHeight, new int[]{
-                0x00ffffff, 0x88ffffff}, new float[]{0,0.5f},
+        mSuccessPaint.setShader(new LinearGradient(0, 0, width / 2 * 3, mHeight, new int[]{
+                0x00ffffff, 0x88ffffff}, new float[]{0, 0.5f},
                 Shader.TileMode.MIRROR));
         //模仿斗鱼 是一个平行四边形滚动过去
         mSuccessPath = new Path();
@@ -217,6 +217,8 @@ public class SwipeCaptchaView extends AppCompatImageView {
 
     //生成验证码区域
     public void createCaptcha() {
+        if (mWidth <= 0 || mHeight <= 0)
+            return;
         if (getDrawable() != null) {
             resetFlags();
             createCaptchaPath();
@@ -396,6 +398,7 @@ public class SwipeCaptchaView extends AppCompatImageView {
 
     /**
      * 最大可滑动值
+     *
      * @return
      */
     public int getMaxSwipeValue() {
@@ -406,6 +409,7 @@ public class SwipeCaptchaView extends AppCompatImageView {
 
     /**
      * 设置当前滑动值
+     *
      * @param value
      */
     public void setCurrentSwipeValue(int value) {
