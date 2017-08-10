@@ -14,24 +14,28 @@
         android:layout_height="200dp"
         android:layout_centerHorizontal="true"
         android:scaleType="centerCrop"
-        tools:src="@drawable/pic11"
+        tools:src="@drawable/bg_slide_unblock"
         app:captchaHeight="30dp"
         app:captchaWidth="30dp"/>
 
     <SeekBar
         android:id="@+id/dragBar"
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="35dp"
         android:layout_below="@id/swipeCaptchaView"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="15dp"
-        android:progressDrawable="@drawable/dragbg"
-        android:thumb="@drawable/thumb_bg"/>
+        android:layout_margin="10dp"
+        android:padding="3dp"
+        android:progressDrawable="@drawable/bg_selecter_blue_stroke"
+        android:thumb="@drawable/icon_captcha_progress"/>
 
-    <Button
+    <ImageView
         android:id="@+id/btnChange"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
         android:layout_alignParentRight="true"
-        android:text="刷新"/>
+        android:layout_margin="20dp"
+        android:padding="2dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/icon_refresh"/>
 </RelativeLayout>

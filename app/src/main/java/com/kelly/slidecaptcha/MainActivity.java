@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
 
         //测试从网络加载图片是否ok
         Glide.with(this)
-                .load("https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1502300468992&di=ba3c87729fc6df8327cda0b5977e8a9a&imgtype=0&src=http%3A%2F%2Fpic.jj20.com%2Fup%2Fallimg%2F811%2F062214143621%2F140622143621-3.jpg")
+                .load(R.drawable.bg_slide_unblock)
                 .asBitmap()
                 .into(new SimpleTarget<Bitmap>() {
                     @Override

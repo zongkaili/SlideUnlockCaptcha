@@ -31,7 +31,7 @@ import static com.kelly.captcha.DrawHelperUtils.drawPartCircle;
 
 /**
  * 滑动验证码的View
- * 继承自ImageView方便北京图片的自定义拓展
+ * 继承自ImageView方便背景图片的自定义拓展
  */
 public class SwipeCaptchaView extends AppCompatImageView {
     private static final String TAG = SwipeCaptchaView.class.getSimpleName();
